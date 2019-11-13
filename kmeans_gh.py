@@ -1,6 +1,6 @@
 '''This program implements the basic K-means algorithm and returns the following:
 1 - A printout of the initial data as read from the csv file.
-2 - A randomly selected set of centroids printout based on the "n" input received from the user.
+2 - A randomly selected set of centroids printout based on the "k" input received from the user.
 3 - A print out of the newly rewritten centroids afer each iteration based on
     the mean calculation of the cluster data points.
 4 - A DataFrame printout upon each iteration of the allocated countries to the
