@@ -48,7 +48,7 @@ def distance_between(cent, data_points):
 # Numpy array with all the values in the two columns as well as the country names in a
 # separate array. We can access them via slicing.
 x = read_csv_pd(
-    "/Users/Etienne-Macbook/documents/developing/hyperion/k-means-task/", "dataBoth.csv")
+    "SET YOUR PATH HERE", "CALL THE .CSV DATASET FILENAME HERE THAT YOU WANT TO RUN.")
 # convert the ndarray to a list for sampling
 x_list = np.ndarray.tolist(x[0][0:, :])
 
