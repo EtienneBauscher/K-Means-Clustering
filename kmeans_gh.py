@@ -168,7 +168,7 @@ for iteration in range(0, iterations):
             distance = sqrt(
                 (birth_rate-data_point[0])**2+(life_exp-data_point[1])**2)
             means[index+1].append(distance)
-    # create a list that will hold all the sum of the means in each clusters.
+    # create a list that will hold all the sums of the means in each of the clusters.
     total_distance = []
     for ind, summed in enumerate(means):
         total_distance.append(sum(means[ind+1]))
