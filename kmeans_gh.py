@@ -62,9 +62,11 @@ print('Random Centroids are: ' + str(centroids))
 
 
 def assign_to_cluster_mean_centroid(x_in=x, centroids_in=centroids, n_user=k):
-    '''This function calls the distance_between() function. It then allocates from 
-    the returned list, each data point to the centroid that is the
-    closest to in distance.'''
+    '''This function calls the distance_between() function. It allocates from
+    the returned list, each data point to the centroid/cluster that it is the
+    closest to in distance. It also rewrites the centroids with the newly calculated
+    means. Finally it returns the list with cluster allocations that are 
+    in line with the order of the countries. It also returns the clusters dictionary.'''
     distances_arr_re = np.reshape(distance_between(
         centroids_in, x_in[0]), (len(centroids_in), len(x_in[0])))
     datapoint_cen = []
