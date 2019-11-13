@@ -1,0 +1,197 @@
+Countries,BirthRate(Per1000 - 2008),LifeExpectancy(2008)
+Afghanistan,46.613,47.532
+Albania,14.69,76.492
+Algeria,20.804,72.44
+Angola,42.908,49.879
+Argentina,17.372,75.387
+Armenia,15.222,73.794
+Aruba,11.846,74.811
+Australia,12.741,81.567
+Austria,9.138,80.51
+Azerbaijan,19.,70.15
+Bahamas,16.863,74.848
+Bahrain,18.151,74.675
+Bangladesh,21.589,68.007
+Barbados,11.237,76.343
+Belarus,9.97,69.194
+Belgium,11.293,79.777
+Belize,24.916,75.388
+Benin,39.599,54.86
+Bhutan,21.522,66.066
+Bolivia,27.349,65.701
+Bosnia and Herzegovina,9.168,75.221
+Botswana,24.676,52.812
+Brazil,16.405,72.464
+Brunei,20.061,77.6
+Bulgaria,9.558,73.317
+Burkina Faso,47.819,54.065
+Burundi,34.581,49.054
+Cambodia,24.89,61.736
+Cameroon,37.113,50.194
+Canada,10.625,80.743
+Cape Verde,24.261,73.587
+Central African Rep.,35.623,46.217
+Chad,45.84,48.634
+Channel Islands,9.426,79.586
+Chile,15.04,78.561
+China,13.536,73.099
+Colombia,20.605,73.041
+Comoros,32.746,59.882
+Congo  Dem. Rep.,45.058,47.588
+Congo  Rep.,34.744,56.187
+Costa Rica,16.643,78.94
+Cote d'Ivoire,35.127,53.328
+Croatia,9.556,76.075
+Cuba,10.499,78.565
+Cyprus,11.514,79.058
+Czech Rep.,10.564,77.26
+Denmark,11.546,78.408
+Djibouti,28.687,56.784
+Dominican Rep.,22.719,72.678
+Ecuador,20.989,75.15
+Egypt,24.83,72.507
+El Salvador,20.377,71.543
+Equatorial Guinea,38.027,50.2
+Eritrea,37.283,60.272
+Estonia,11.766,73.23
+Ethiopia,38.558,57.481
+Fiji,21.11,68.858
+Finland,11.127,79.699
+France,12.21,81.254
+French Guiana,25.229,75.979
+French Polynesia,18.075,74.584
+Gabon,27.483,61.391
+Gambia,36.993,57.522
+Georgia,12.116,73.19
+Germany,8.136,80.06
+Ghana,32.507,62.88
+Greece,9.65,79.594
+Grenada,19.412,75.457
+Guadeloupe,14.452,79.437
+Guam,18.459,75.606
+Guatemala,33.25,70.447
+Guinea,39.88,52.692
+Guinea-Bissau,41.357,46.979
+Guyana,18.043,68.841
+Haiti,27.852,61.106
+Honduras,27.748,72.247
+Hong Kong  China,8.165,81.832
+Hungary,9.858,73.48
+Iceland,14.738,81.846
+India,22.966,64.382
+Indonesia,18.756,68.118
+Iran,18.94,72.199
+Iraq,31.585,67.812
+Ireland,15.645,79.94
+Israel,20.028,80.836
+Italy,9.258,81.236
+Jamaica,19.461,72.362
+Japan,8.201,82.81
+Jordan,26.04,72.989
+Kazakhstan,19.775,65.999
+Kenya,39.026,55.179
+Korea  Dem. Rep.,13.812,68.577
+Korea  Rep.,9.488,80.064
+Kuwait,17.911,74.234
+Kyrgyzstan,22.38,66.899
+Laos,27.612,66.237
+Latvia,10.143,72.518
+Lebanon,15.844,72.079
+Lesotho,29.112,46.119
+Liberia,38.556,54.77
+Libya,23.415,74.143
+Lithuania,9.468,71.84
+Luxembourg,11.389,79.563
+Macao  China,8.28,80.198
+Macedonia  FYR,10.918,74.32
+Madagascar,36.191,65.856
+Malawi,40.455,51.866
+Malaysia,20.534,73.52
+Maldives,18.82,75.791
+Mali,42.79,50.194
+Malta,9.04,78.951
+Martinique,12.643,80.131
+Mauritania,33.798,57.711
+Mauritius,14.112,72.916
+Mayotte,25.391,77.147
+Mexico,19.091,76.303
+Micronesia  Fed. Sts.,25.487,68.434
+Moldova,12.291,68.438
+Mongolia,18.955,67.466
+Montenegro,12.076,74.096
+Morocco,20.536,71.323
+Mozambique,39.509,48.976
+Myanmar,20.651,63.823
+Namibia,27.8,61.112
+Nepal,25.611,67.589
+Netherlands,11.259,80.024
+Netherlands Antilles,13.401,76.184
+New Caledonia,16.477,75.525
+New Zealand,13.831,80.301
+Nicaragua,24.848,73.153
+Niger,54.053,53.322
+Nigeria,40.134,50.497
+Norway,12.304,80.672
+Oman,22.058,72.765
+Pakistan,30.209,64.709
+Panama,20.819,75.605
+Papua New Guinea,31.684,61.683
+Paraguay,24.822,71.854
+Peru,21.342,73.315
+Philippines,24.963,67.963
+Poland,9.792,75.678
+Portugal,9.873,78.771
+Puerto Rico,13.19,78.823
+Qatar,12.197,77.948
+Reunion,18.55,77.297
+Romania,10.045,73.275
+Russia,10.828,67.89
+Rwanda,41.033,54.252
+Saint Lucia,18.049,73.995
+Saint Vincent and the Grenadines,17.725,71.713
+Samoa,23.764,71.679
+Sao Tome and Principe,32.399,63.935
+Saudi Arabia,23.569,73.25
+Senegal,38.776,58.348
+Serbia,11.612,74.083
+Sierra Leone,40.441,46.44
+Singapore,8.191,80.672
+Slovak Republic,10.176,74.88
+Slovenia,9.628,78.414
+Solomon Islands,30.79,66.656
+Somalia,44.239,50.429
+South Africa,22.113,51.37
+Spain,11.016,80.935
+Sri Lanka,18.287,74.456
+Sudan,31.616,60.485
+Suriname,19.121,69.741
+Swaziland,30.014,47.391
+Sweden,11.72,80.973
+Switzerland,9.69,81.898
+Syria,28.231,75.417
+Tajikistan,28.139,66.581
+Tanzania,41.648,55.821
+Thailand,14.577,73.646
+Timor-Leste,40.201,61.095
+Togo,33.058,55.915
+Tonga,28.167,71.911
+Trinidad and Tobago,14.828,69.445
+Tunisia,16.093,73.995
+Turkey,18.426,73.156
+Turkmenistan,22.014,64.658
+Uganda,46.345,52.489
+Ukraine,9.879,68.306
+United Arab Emirates,14.027,76.035
+United Kingdom,12.195,79.499
+United States,14.191,77.8
+Uruguay,15.089,76.453
+Uzbekistan,20.36,67.585
+Vanuatu,30.443,70.151
+Venezuela,21.439,73.815
+Vietnam,17.312,74.51
+Virgin Islands (U.S.),13.536,79.014
+West Bank and Gaza,35.855,72.274
+Western Sahara,23.34,66.168
+Yemen  Rep.,37.1,64.176
+Zambia,43.152,47.112
+Zimbabwe,30.028,47.199
