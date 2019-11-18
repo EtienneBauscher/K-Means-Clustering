@@ -115,7 +115,7 @@ customPalette = ['#630C3A', '#39C8C6', '#D3500C', '#FFB139',
                  '#8B008B', '#C71585', '#00008B', '#66CDAA']
 sns.set_palette(customPalette)
 # The below line is to print a palette if needed.
-# sns.palplot(customPalette)  // print the custom pallette if needed
+# sns.palplot(customPalette)
 
 # =========
 # MAIN LOOP
