@@ -38,7 +38,7 @@ def distance_between(cent, data_points):
     for centroid in cent:
         for datapoint in data_points:
             distances_arr.append(
-                sqrt((datapoint[0]-centroid[0])**2 + (datapoint[1]-centroids[1])**2))
+                sqrt((datapoint[0]-centroid[0])**2 + (datapoint[1]-centroid[1])**2))
     return distances_arr
 
 
